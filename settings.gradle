@@ -1,0 +1,2 @@
+rootProject.name = "SweetAlertDialog"
+include ':app'
